@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/market-place-app/static/css/main.916cddf4.css",
-    "main.js": "/market-place-app/static/js/main.6f4471a8.js",
+    "main.css": "/market-place-app/static/css/main.6681038d.css",
+    "main.js": "/market-place-app/static/js/main.a0b33ea0.js",
     "static/js/787.25d6efd8.chunk.js": "/market-place-app/static/js/787.25d6efd8.chunk.js",
     "static/media/business1.png": "/market-place-app/static/media/business1.e7a80dda305c64d8a699.png",
     "static/media/kid.png": "/market-place-app/static/media/kid.d67ddbbc8685f59ea87f.png",
@@ -49,12 +49,12 @@
     "static/media/homecoming.jpg": "/market-place-app/static/media/homecoming.90f5c6c682e27fdd9db5.jpg",
     "static/media/s5-teams.jpg": "/market-place-app/static/media/s5-teams.0a72e938a9ac55a2cf8d.jpg",
     "index.html": "/market-place-app/index.html",
-    "main.916cddf4.css.map": "/market-place-app/static/css/main.916cddf4.css.map",
-    "main.6f4471a8.js.map": "/market-place-app/static/js/main.6f4471a8.js.map",
+    "main.6681038d.css.map": "/market-place-app/static/css/main.6681038d.css.map",
+    "main.a0b33ea0.js.map": "/market-place-app/static/js/main.a0b33ea0.js.map",
     "787.25d6efd8.chunk.js.map": "/market-place-app/static/js/787.25d6efd8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.916cddf4.css",
-    "static/js/main.6f4471a8.js"
+    "static/css/main.6681038d.css",
+    "static/js/main.a0b33ea0.js"
   ]
 }
