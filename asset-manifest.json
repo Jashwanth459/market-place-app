@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/market-place-app/static/css/main.9f49a765.css",
-    "main.js": "/market-place-app/static/js/main.ba08aa09.js",
+    "main.js": "/market-place-app/static/js/main.9fba0b79.js",
     "static/js/453.bb98f524.chunk.js": "/market-place-app/static/js/453.bb98f524.chunk.js",
     "static/media/business1.png": "/market-place-app/static/media/business1.e7a80dda305c64d8a699.png",
     "static/media/kid.png": "/market-place-app/static/media/kid.d67ddbbc8685f59ea87f.png",
@@ -50,11 +50,11 @@
     "static/media/s5-teams.jpg": "/market-place-app/static/media/s5-teams.0a72e938a9ac55a2cf8d.jpg",
     "index.html": "/market-place-app/index.html",
     "main.9f49a765.css.map": "/market-place-app/static/css/main.9f49a765.css.map",
-    "main.ba08aa09.js.map": "/market-place-app/static/js/main.ba08aa09.js.map",
+    "main.9fba0b79.js.map": "/market-place-app/static/js/main.9fba0b79.js.map",
     "453.bb98f524.chunk.js.map": "/market-place-app/static/js/453.bb98f524.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f49a765.css",
-    "static/js/main.ba08aa09.js"
+    "static/js/main.9fba0b79.js"
   ]
 }
